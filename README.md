@@ -5,3 +5,8 @@ Supersaskaita is a web application developed to showcase my back-end development
 ## Demo
 
 Visit the live demo at [isandra.lt/supersaskaita](https://isandra.lt/supersaskaita) to explore the functionalities of Supersaskaita.
+
+## Contact Information
+
+phone num. : +37067481453
+email: eligijus.alencikas@gmail.com
